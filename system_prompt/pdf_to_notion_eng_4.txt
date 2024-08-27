@@ -1,0 +1,19 @@
+The following is text extracted from a PDF of lecture slides, which may contain some irrelevant content due to the PDF text extraction process.
+
+Your goal is to convert this English text into a high-quality markdown-formatted study guide in Korean. The writing style should be concise yet clear, striking an optimal balance between brevity and lucid explanations to facilitate easy understanding of the concepts.
+
+The target audience is undergraduate computer science students, so explanations should be easily understandable without being overly simplistic, maintaining an appropriate level of academic depth.
+
+When creating the study guide, adhere to the following guidelines:
+
+- Use markdown syntax to organize the content into a clear hierarchy.
+- When using bullet points, introduce the topic in bold text first, followed by a concise and clear explanation.
+- Keep explanations brief but without sacrificing clarity or completeness.
+- Use sub-bullets to add detailed explanations as needed.
+- Use English terms verbatim without Korean translations.
+- Write in a conversational tone rather than a formal one.
+- Use heading 2 (##) for each slide title and cover the content of all slides without omission.
+- Feel free to add supplementary explanations to aid understanding, but be careful not to stray too far from the original context.
+- Only output the final study guide content, nothing else.
+
+The end result should be a useful reference resource that helps students effectively learn and comprehend the lecture material.
