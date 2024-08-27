@@ -82,6 +82,8 @@ The script will:
 3. Generate summaries based on the system prompt
 4. Save the output in the `response` folder and copy it to your clipboard
 
+I have included a sample prompt and a few response that I have used personally for my study. You can find them in the `system_prompt` and `response` folders.
+
 ## Customizing Prompts
 
 You can create your own system prompts in the `system_prompt` folder. These prompts guide the AI in generating summaries and explanations. Existing prompts include:

@@ -1,2 +1,5 @@
 /response
 /system_prompt
+!/system_prompt/pdf_to_notion_eng_4.txt
+!/response/DBLecture07-Ch5_response.md
+!/response/05-01 Discrete random variables_response.md
