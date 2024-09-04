@@ -9,7 +9,7 @@ OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
 ANTHROPIC_API_KEY = "YOUR_ANTHROPIC_API_KEY"
 client_anthropic = AsyncAnthropic(api_key=ANTHROPIC_API_KEY)
 client = AsyncOpenAI()
-AsyncOpenAI.api_key = OPENAI_API_KEY
+client.api_key = OPENAI_API_KEY
 
 async def query_openai(model, system_prompt, user_prompt, max_tokens=4000, temperature=0.0):
     completion = await client.chat.completions.create(
